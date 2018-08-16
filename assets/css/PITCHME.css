@@ -1,0 +1,9 @@
+footer {
+  display: none !important;
+}
+
+.reveal section img {
+  background: transparent;
+  border: 0;
+  box-shadow: 0;
+}

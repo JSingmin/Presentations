@@ -1,5 +1,3 @@
-# Presentations
+https://gitpitch.com/JSingmin/Presentations/20180824-go-introduction
 
-This is the presentation template.
-
-https://gitpitch.com/JSingmin/Presentations/master
+go playground: https://play.golang.org
